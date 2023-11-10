@@ -1343,3 +1343,4 @@ class GradientTape:
 
       output = array_ops.reshape(output, new_shape)
       return output
+print('commit1')
